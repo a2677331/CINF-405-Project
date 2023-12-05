@@ -10,7 +10,7 @@
   - I wrote an intro screen for the game: ![5](https://github.com/a2677331/CINF-405-Project/blob/main/intro_screen.png)
   - I added a timer of 300 seconds for each round of the game: ![6](https://github.com/a2677331/CINF-405-Project/blob/main/timer.png)
   - Different Intro screen: Initial running the game will display an intro screen without a money score, while subsequent runs will show both the introduction screen with the money score from previously played: ![6](https://github.com/a2677331/CINF-405-Project/blob/main/intro1.png) ![7](https://github.com/a2677331/CINF-405-Project/blob/main/intro2.png)
-  - I did "Real Estate" buidging functions and interactions: ![7](https://github.com/a2677331/CINF-405-Project/blob/main/intro1.png) ![7](https://github.com/a2677331/CINF-405-Project/blob/main/real2.png)
+  - I did "Real Estate" buidging functions and interactions: ![7](https://github.com/a2677331/CINF-405-Project/blob/main/real1.png) ![7](https://github.com/a2677331/CINF-405-Project/blob/main/real2.png)![7](https://github.com/a2677331/CINF-405-Project/blob/main/real3.png)
 
 ## What I did:
   - [x] added a money score in the top bar
